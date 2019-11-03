@@ -3,6 +3,7 @@
 
 const int stepsPerRev = 32;
 Servo myServo;
+// Inputs are pin 1, pin 3, pin 2, pin 4
 Stepper myStepper(stepsPerRev, 32, 25, 33, 26);
 
 int servoPos = 10;
