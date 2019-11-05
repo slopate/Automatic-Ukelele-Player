@@ -9,6 +9,7 @@ The strumming mechanism is controlled via a Servo motor. We attached a popsicle 
 The users controls the automatic player with two ultrasound sensors, which detects the distance at which the ultrasound waves are blocked. This allows the user to control the ukelele by moving their hands closer and further from the sensors. The sensor to the left of the ukelele controls the frequency of the strumming. The closer your move your hand to the sensor, the faster the strumming gets. The sensor to the right of the ukelele controls the speed and direction of the fretboard slider. At the closest hand position to the sensor, the slider moves down the fretbaord at the highest speed, 
 
 ## Some Photos
+![Wiring](assets/magic&#32;ukulele&#32;wiring&#32;diagram.png)
 
 ![Top down](assets/IMG_2763.jpg)
 
