@@ -12,6 +12,10 @@ The user controls the automatic player with two ultrasound sensors, which detect
 
 We ran into a handful of issues while building the instrument. The primary one was figuring out how to attach the rather bulky threaded rod to a motor. We tried soldering and glueing, but ultimately both of these methods were too weak. We ended up 3D-printing a custom mold to attach the units together. Another issue was deciding which motor to use. Originally we were using a stepper motor, but this ended up being way too slow at moving the fretboard. We then switched to a DC motor, which was much faster. Another issue was applying an appropriate amount of pressure to the frets. Too much pressure and it would stifle the sound of the ukulele, but too little and the slider would fall over. To fix this, we used modeling clay, placed below the neck of the ukulele, which allowed to adjust the height of the instrument and thus effect how much pressure was being applied by the slider. 
 
+Parts List:
+Ukulele  
+fdfdf  
+
 ## Some Photos
 ![Wiring](assets/magic&#32;ukulele&#32;wiring&#32;diagram.png)
 
