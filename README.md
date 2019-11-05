@@ -16,7 +16,7 @@ Parts List:
 Ukulele  
 3 Project Boxes  
 LKY61 Servo Motor  
-DC Motor  
+L298N DC Motor  
 2 HC-SR04 Ultrasonic Sensors 
 ESP32  
 Threaded Rod and Nut  
